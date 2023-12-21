@@ -109,7 +109,7 @@ $(function () {
                 //
                 var homeHtmlToInsertIntoMainPage = insertProperty(
                     homeHtml,
-                    'short_name',
+                    'randomCategoryShortName',
                     chosenCategoryShortName
                 );
                 // TODO: STEP 4: Insert the produced HTML in STEP 3 into the main page
